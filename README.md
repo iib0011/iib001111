@@ -8,9 +8,9 @@
 <br>
 <br>
 <a href="https://github.com/iib0011">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iib0011&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="iib0011's stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iib0011&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232321" alt="iib0011's stats" />
 <a href="https://github.com/iib0011?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iib0011&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iib0011&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232321">
 </h2>
 <br>
 <br>
